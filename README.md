@@ -54,12 +54,16 @@ cd president-game
 
 ---
 
-🧠 Idealizador
-Criado com carinho (e risadas) por Matheus Aguiar, estudante de Ciência da Computação e programador Java raiz, apaixonado por jogos, cartas e boas histórias.
+## 🧠 Idealizador
+O Jogo foi idelizado e criado por discentes do curso de graduação em Ciência da Computação da Universidade Federal de Jataí.
+
+>Turma XVII (2025)
+
+Essa versão digital foi  criado com carinho por [Matheus Aguiar](https://github.com/theprogmatheus), estudante de Ciência da Computação e programador Java raiz, apaixonado por jogos, cartas e boas histórias.
 
 ---
 
-📜 Licença
+## 📜 Licença
 Este projeto é licenciado sob a GNU GENERAL PUBLIC LICENSE v3.0
 Você é livre para usar, modificar e distribuir, desde que mantenha a liberdade para todos os futuros jogadores-devs.
 Leia o arquivo [LICENSE](./LICENSE) para mais detalhes.
